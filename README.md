@@ -8,15 +8,6 @@ This research project is intended to:
 
 Programming lanugage: R
 
-Datasets
-- Understanding Society
-- UK Census 2011
-
-Algorithms
-- Iterative proportional fitting
-- Linear and logistic regressions
-- Random forest
-
 Example visualisations
 ![London GHQ](./images/London_GHQ1.png)
 ![Wales GHQ](./images/Wales_GHQ1.png)

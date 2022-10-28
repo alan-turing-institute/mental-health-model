@@ -18,3 +18,5 @@ Algorithms
 - Random forest
 
 Example visualisations
+![London GHQ](./images/London_GHQ1.png)
+![Wales GHQ](./images/Wales_GHQ1.png)

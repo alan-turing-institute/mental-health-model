@@ -1,10 +1,9 @@
 # Mental Health Modelling
-## By AI for Science & Government + The Urban Analytics Programme, The Alan Turing Institute
 
-This research project is intended to:
-- Understand the antecedents of mental-welling, especially during the COVID-19 times
+This project is intended to:
+- Understand the determinents of mental well-being during/following the COVID-19 times
 - Create a UK synthetic population and use it to generate small area estimates of self-reported mental well-being 
-- Produce a mental well-being dashboard that allows policy stakeholders to visualise and explore estimated mental health outcomes
+- Produce a mental well-being dashboard that allows policy stakeholders to visualise and explore estimated mental health outcomes at a small area
 
 Programming language: R
 

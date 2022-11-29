@@ -1,5 +1,4 @@
-# Healthy and Happy Cities
-## Mental Health Modelling
+# Healthy and Happy Cities: Mental Health Modelling
 
 This project is intended to:
 - Understand the determinents of mental well-being during/following the COVID-19 times

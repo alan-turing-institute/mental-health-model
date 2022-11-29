@@ -9,4 +9,5 @@ Programming language: R
 
 Example visualisations
 ![London GHQ](./images/London_GHQ1.png)
+![London loneliness](./images/London_Loneliness.png)
 ![Wales GHQ](./images/Wales_GHQ1.png)

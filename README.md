@@ -3,7 +3,7 @@
 This project is intended to:
 - Understand the determinants of mental well-being during/following the COVID-19 times
 - Create a UK synthetic population and use it to generate small area estimates of self-reported mental well-being 
-- Produce a mental well-being dashboard that allows policy stakeholders to visualise and explore estimated mental health outcomes in a small area
+- Produce a mental well-being dashboard that allows policy stakeholders to visualise and explore estimated mental health outcomes in small areas
 
 Programming language: R
 

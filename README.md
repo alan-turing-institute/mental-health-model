@@ -6,7 +6,8 @@ This project is intended to:
 
 Programming language: R
 
-Example visualisations
-![GHQ scores in London by LSOA](./images/London.png)
-![GHQ scores in London Barking by LSOA](./images/Barking.png)
-![GHQ scores in London Kensington & Chelsea by LSOA](./images/Chelsea.png)
+GHQ = General Health Questionnaire
+
+## Example visualisations
+### GHQ scores in London by LSOA ![GHQ scores in London by LSOA](./images/London_GHQ.png)
+### Ranks of subjective well-being in London by LSOA ![Ranks of subjective well-being in London by LSOA](./images/London_SW.png)
